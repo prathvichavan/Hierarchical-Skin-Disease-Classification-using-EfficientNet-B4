@@ -1,4 +1,4 @@
-# 🩺 Hierarchical Skin Disease Classification using EfficientNet-B4
+# 🩺 Hierarchical Skin Disease Classification using EfficientNet-B4 
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-2.19.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
